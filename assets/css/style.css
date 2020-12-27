@@ -1,0 +1,12 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+#startBtn{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+}
